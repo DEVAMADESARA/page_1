@@ -33,7 +33,7 @@
 }
 .navbar .navright button{
     width: 30%;
-    height: 30px;
+    height: 40px;
     margin-top: 28px;
     float: right;
     background-color: black;
@@ -74,7 +74,7 @@
 }
 .main .right button{
     width: 30%;
-    height: 30px;
+    height: 40px;
     margin-top: 28px;
     float: left;
     background-color: black;
